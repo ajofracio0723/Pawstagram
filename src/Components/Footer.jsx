@@ -7,7 +7,7 @@ const Footer = () => {
 						<a href="" class="flex items-center">
 							<img src="images/cat-solid.svg" alt="" className="h-8 mr-3 relative bottom-1" />
 							<span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-								The Cats
+								Pawstagram
 							</span>
 						</a>
 					</div>
